@@ -1,5 +1,6 @@
 #NetCider
 Calculates network segments based on CIDR notation.
+
 It's a pretty handy utility for pen testers.
 
 You provide a CIDR range and this tool will output network statistics, or the complete IP range, which can then be fed to tools that don't support CIDR notation.
