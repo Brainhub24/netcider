@@ -1,4 +1,4 @@
-#NetCider
+# Netcider v2.0 Beta
 Calculates network segments based on CIDR notation.
 
 It's a pretty handy utility for pen testers.
